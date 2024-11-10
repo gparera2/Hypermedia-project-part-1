@@ -21,3 +21,6 @@ This is a single-section page with a vertical layout that allows users to easily
 
 ### FIGMA PROJECT
 [https://www.figma.com/design/tbYipuKWhPmreopkcz7O5n/Untitled?node-id=0-1&t=hbcBsqafu1pR6CEk-1](https://www.figma.com/design/tbYipuKWhPmreopkcz7O5n/Untitled?node-id=0-1&t=hbcBsqafu1pR6CEk-1)
+
+### PUBLIC LINK TO MY PAGE
+[https://gparera2.github.io/Hypermedia-project-part-1](https://gparera2.github.io/Hypermedia-project-part-1/)
