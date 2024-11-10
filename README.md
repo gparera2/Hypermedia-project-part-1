@@ -19,4 +19,5 @@ This is a single-section page with a vertical layout that allows users to easily
 - **Typography:** The primary font, 'Courier New,' offers a coding and programming vibe, aligning with my tech-oriented profile.
 - **Page Layout:** A single-column layout enhances navigation. Sections alternate between solid color backgrounds and background images to maintain an attractive and organized visual structure.
 
-
+### FIGMA PROJECT
+[https://www.figma.com/design/tbYipuKWhPmreopkcz7O5n/Untitled?node-id=0-1&t=hbcBsqafu1pR6CEk-1](https://www.figma.com/design/tbYipuKWhPmreopkcz7O5n/Untitled?node-id=0-1&t=hbcBsqafu1pR6CEk-1)
